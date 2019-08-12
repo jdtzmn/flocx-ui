@@ -25,6 +25,10 @@
       {
         title: 'Contracts',
         path: 'contract-list/contract-list.html'
+      },
+      {
+        title: 'CPU hours',
+        path: 'cpu-hours/cpu-hours.html'
       }
     ];
 
